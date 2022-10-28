@@ -1,0 +1,109 @@
+.sec{
+    background-color: rgb(32, 85, 233);
+}
+.sec-img{
+    height: 60px;
+    width: 70px;
+    
+}
+a:hover{
+    background-color: rgb(29, 233, 73);
+   transition: none;
+   
+}
+.sec-a{
+    text-align: end;
+}
+.a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 14px;
+    text-align: end;
+}
+.sec1{
+    box-shadow: 10px 10px 10px  black;
+}
+.sec1 h1{
+    font-size: 60px;
+    font-weight: 500px;
+}
+.sec1-tx{
+    font-size: 30px;
+}
+.box1{
+   display: inline-block;
+}
+.box2{
+    display: inline-block;
+}
+.sec2-img{
+    height: 250px;
+    width: 600px;
+}
+
+
+.sec2-a{
+    text-decoration: none;
+    padding: 25px 40px;
+    border-radius: 15px;
+    background-color: #fff;
+    border: 3px solid black;
+
+}
+.sec3{
+    padding: 50px;
+}
+.sec3-img{
+    height: 250px;
+}
+.box-1{
+    width: 40%;
+    margin-left: 90px;
+}
+.sec4-a a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.index-end{
+    border: 3px solid #fff;
+}
+.sec5{
+    text-align: center;
+    background-color: rgb(50, 62, 231);
+    color: #fff;
+}
+.sec6-h3{
+    text-align: center;
+}
+.card-img{
+    height: 90px;
+    width: 90px;
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+}
+.sec-card{
+    padding: 50px;
+    text-align: center;
+   
+}
+.sec-con{
+    padding: 100px;
+   
+}
+.inbox{
+   padding-left: 100px;
+   padding-right: 100px;
+   padding-top: 20px;
+   border: 4px solid black;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+}
+.box{
+    padding-left: 200px;
+    padding-right: 200px;
+    border: 4px solid black;
+    margin-top: 10px;
+}
